@@ -55,7 +55,7 @@ ul {
   padding: 0;
 }
 
-a {
+li a {
   display: block;
   text-decoration: none;
   color: var(--White);
