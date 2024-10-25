@@ -26,6 +26,7 @@ body {
   font-size: 0.875rem;
   background-color: var(--Grey-900);
   color: var(--White);
+  position: relative;
 }
 
 .container-flex {
@@ -55,6 +56,7 @@ ul {
 }
 
 a {
+  display: block;
   text-decoration: none;
   color: var(--White);
   font-weight: var(--fw-600);
