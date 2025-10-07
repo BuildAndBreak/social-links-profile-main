@@ -86,8 +86,8 @@ li a:active {
 .attribution {
   font-size: 11px;
   text-align: center;
-  position: absolute;
-  bottom: 0;
+  position: fixed;
+  bottom: 10px;
 }
 .attribution a {
   color: hsl(228, 45%, 44%);
