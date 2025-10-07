@@ -37,8 +37,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Social links profile solution](https://www.frontendmentor.io/solutions/responsive-social-links-webpage-with-flexbox-zENqG19jIY)
+- Live Site URL: [Social links live](https://social-links-buildandbreak.netlify.app/)
 
 ## My process
 
