@@ -29,11 +29,11 @@ Users should be able to:
 
 **Mobile Version**
 
-![Mobile](./screenshots/iPhone-13-PRO-social-links-buildandbreak.png) 250px
+![Mobile](./screenshots/iPhone-13-PRO-social-links-buildandbreak.png)
 
 **Laptop Version**
 
-![Laptop](./screenshots/Macbook-Air-social-links-buildandbreak.png) 650px
+![Laptop](./screenshots/Macbook-Air-social-links-buildandbreak.png)
 
 ### Links
 
